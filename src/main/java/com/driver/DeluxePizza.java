@@ -4,7 +4,8 @@ public class DeluxePizza extends Pizza {
 
     public DeluxePizza(Boolean isVeg) {
         super(isVeg);
-        addExtraCheese();;
+        addExtraCheese();
+
         addExtraToppings();
         // your code goes here
 
